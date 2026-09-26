@@ -3,12 +3,12 @@
     "files": [
         {
             "path": "mods/fabric-api-0.116.17%2B1.21.1.jar",
-            "url": "https://github.com//JonnyZ-Dev/Pkm-Jonny-Modpack/releases/download/v1.0/fabric-api-0.116.17%252B1.21.1.jar",
+            "url": "[https://github.com/JonnyZ-Dev/Pkm-Jonny-Modpack/releases/download/v1.0/](https://github.com/JonnyZ-Dev/Pkm-Jonny-Modpack/releases/download/v1.0/)fabric-api-0.116.17%252B1.21.1.jar",
             "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
         },
         {
             "path": "mods/tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar",
-            "url": "https://github.com//JonnyZ-Dev/Pkm-Jonny-Modpack/releases/download/v1.0/tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar",
+            "url": "[https://github.com/JonnyZ-Dev/Pkm-Jonny-Modpack/releases/download/v1.0/](https://github.com/JonnyZ-Dev/Pkm-Jonny-Modpack/releases/download/v1.0/)tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar",
             "sha256": "8197b5e0b85d45cfcb98bffef34d070c6371efe28443c92a807cdc98d110f5f7"
         }
     ]
